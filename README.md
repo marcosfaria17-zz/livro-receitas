@@ -1,5 +1,5 @@
 #Livro de Receitas#
 
-Olá, seja bem vindo ao mue livo de receitas.
+Olá, seja bem vindo ao meu livo de receitas.
 
-Receita de Frango
+1. Receita de Frango
